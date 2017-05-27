@@ -2,21 +2,28 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Amazon]" parallel="tests">
   <parameter name="useCloudEnv" value="false"/>
-  <parameter name="os" value="Windows"/>
-  <parameter name="os_version" value="10"/>
+  <parameter name="os" value="OS X"/>
+  <parameter name="os_version" value="Sierra"/>
   <parameter name="browserVersion" value="53.0"/>
-  <parameter name="browserName" value=""/>
+  <parameter name="browserName" value="firefox"/>
   <parameter name="cloudEnvName" value="browserstack"/>
-  <parameter name="url" value="http://amazon.com"/>
+  <parameter name="url" value="https://amazon.com"/>
   <test name="Amazon Home(failed)" parallel="tests">
     <classes>
-      <class name="home.SearchItems">
+      <class name="searchitems.DropDownMenuSearch">
         <methods>
-          <include name="serach"/>
+          <include name="setUp"/>
+          <include name="searchMenu"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- searchitems.DropDownMenuSearch -->
+      <class name="searchitems.SearchItems">
+        <methods>
+          <include name="search"/>
           <include name="setUp"/>
           <include name="cleanUp"/>
         </methods>
-      </class> <!-- home.SearchItems -->
+      </class> <!-- searchitems.SearchItems -->
     </classes>
   </test> <!-- Amazon Home(failed) -->
 </suite> <!-- Failed suite [Amazon] -->

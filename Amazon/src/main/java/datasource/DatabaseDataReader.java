@@ -2,7 +2,7 @@ package datasource;
 
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
-import search.SearchPage;
+import homepage.SearchPage;
 import utility.reader.ConnectDB;
 import utility.reporting.TestLogger;
 

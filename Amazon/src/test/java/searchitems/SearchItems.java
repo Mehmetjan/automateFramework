@@ -3,8 +3,7 @@ package searchitems;
 import base.CommonAPI;
 import org.openqa.selenium.support.PageFactory;
 import org.testng.annotations.Test;
-import search.ItemsToBeSearched;
-import search.SearchPage;
+import homepage.SearchPage;
 import utility.reporting.ApplicationLog;
 
 import java.io.IOException;

@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EnterpriseCar/EnterpriseCar.iml" filepath="$PROJECT_DIR$/EnterpriseCar/EnterpriseCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NYT/NYT.iml" filepath="$PROJECT_DIR$/NYT/NYT.iml" />
       <module fileurl="file://$PROJECT_DIR$/PntAutomation.iml" filepath="$PROJECT_DIR$/PntAutomation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Upscalelearning/Upscalelearning.iml" filepath="$PROJECT_DIR$/Upscalelearning/Upscalelearning.iml" />
       <module fileurl="file://$PROJECT_DIR$/W3Schools/W3Schools.iml" filepath="$PROJECT_DIR$/W3Schools/W3Schools.iml" />
+      <module fileurl="file://$PROJECT_DIR$/worldbank/worldbank.iml" filepath="$PROJECT_DIR$/worldbank/worldbank.iml" />
     </modules>
   </component>
 </project>
