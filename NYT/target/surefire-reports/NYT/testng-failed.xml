@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [NYT]" parallel="tests">
+  <parameter name="useCloudEnv" value="false"/>
+  <parameter name="os" value="Windows"/>
+  <parameter name="os_version" value="10"/>
+  <parameter name="browserVersion" value="53.0"/>
+  <parameter name="browserName" value="firefox"/>
+  <parameter name="cloudEnvName" value="browserstack"/>
+  <parameter name="url" value="https://www.nytimes.com"/>
+  <test name="testNYT(failed)" parallel="tests">
+    <classes>
+      <class name="testHomePage.TestShowWeather">
+        <methods>
+          <include name="afterEachTestMethod"/>
+          <include name="showWather"/>
+          <include name="generateReport"/>
+          <include name="extentSetup"/>
+          <include name="setUp"/>
+          <include name="startExtent"/>
+          <include name="cleanUp"/>
+        </methods>
+      </class> <!-- testHomePage.TestShowWeather -->
+    </classes>
+  </test> <!-- testNYT(failed) -->
+</suite> <!-- Failed suite [NYT] -->

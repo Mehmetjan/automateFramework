@@ -2,169 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/Extent-Report/ExtentReport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/data/file1.xls" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/screenshots/searchItemsWithDB (05.14.2017-13" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/main/java/datasource/DatabaseDataReader.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/DropDownMenuPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/ItemsToBeSearched.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/main/java/homepage/SearchPage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/main/java/useAmazon/LogIn.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/home/SearchItems.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/home/TestAmazonHome.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/searchitems/DropDownMenuSearch.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/searchitems/SearchItems.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/searchitems/SearchItemsWithDatabaseDataSource.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/unit/Calculator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/java/unit/TestCalculator.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/Amazon-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/datasource/DatabaseDataReader$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/datasource/DatabaseDataReader.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/DropDownMenuPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/ItemsToBeSearched$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/ItemsToBeSearched.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/SearchPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/SearchPage$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/SearchPage$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/homepage/SearchPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage$4.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage$5.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/DropDownMenuPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/ItemsToBeSearched$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/ItemsToBeSearched.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/SearchPage$1.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/SearchPage$2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/SearchPage$3.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/classes/search/SearchPage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/Amazon Home.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon (0)/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/Amazon Home.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/Amazon/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite-output.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/TestSuite.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.SearchItems.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-home.TestAmazonHome.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-searchitems.DropDownMenuSearch.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/junitreports/TEST-searchitems.SearchItems.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/Amazon Home.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon (0)/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/Amazon Home.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/Amazon/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/surefire-reports/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnMac.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/AmazonTestRunnerOnWindows.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/home/SearchItems.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/home/TestAmazonHome.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/searchitems/DropDownMenuSearch.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/searchitems/SearchItems.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/searchitems/SearchItemsWithDatabaseDataSource.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/unit/Calculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/target/test-classes/unit/TestCalculator.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon/Amazon Home.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon/Amazon Home.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/Amazon/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-home.SearchItems.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/junitreports/TEST-home.TestAmazonHome.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/Amazon Home.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/Amazon/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Amazon/test-output/testng.css" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/Amazon/Amazon.iml" afterPath="$PROJECT_DIR$/BuyFromAmazon/BuyFromAmazon.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/target/classes/HomePage/SectionMenu.class" afterPath="$PROJECT_DIR$/NYT/target/classes/HomePage/SectionMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/target/test-classes/testHomePage/TestSectionMenu.class" afterPath="$PROJECT_DIR$/NYT/target/test-classes/testHomePage/TestSectionMenu.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/EnterpriseCar/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/EnterpriseCar/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/NYP/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/NYT/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java" afterPath="$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/src/test/java/testHomePage/TestSectionMenu.java" afterPath="$PROJECT_DIR$/NYT/src/test/java/testHomePage/TestSectionMenu.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/src/test/resources/NYTtestRunner.xml" afterPath="$PROJECT_DIR$/NYT/src/test/resources/NYTtestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/NYT/target/test-classes/NYTtestRunner.xml" afterPath="$PROJECT_DIR$/NYT/target/test-classes/NYTtestRunner.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/worldbank/Extent-Report/ExtentReport.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/pom.xml" afterPath="$PROJECT_DIR$/worldbank/pom.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/src/main/java/homepage/Home.java" afterPath="$PROJECT_DIR$/worldbank/src/main/java/homepage/Home.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/src/main/java/homepage/MainPageContent.java" afterPath="$PROJECT_DIR$/worldbank/src/main/java/homepage/MainPageContent.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="$PROJECT_DIR$/worldbank/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="$PROJECT_DIR$/worldbank/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/worldbank/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/worldbank/target/surefire-reports/TestSuite-output.txt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -204,31 +42,103 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="WBhomepagetitle.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/WBhomepagetitle.java">
+      <file leaf-file-name="PlayVideo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/PlayVideo.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+            <state relative-caret-position="357">
+              <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="49" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HomeTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/HomeTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="397">
-              <caret line="34" column="5" lean-forward="false" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+            <state relative-caret-position="-84">
+              <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYT/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-21">
+              <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ShowWeather.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/ShowWeather.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SectionMenu.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainMenus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/MainMenus.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SearchCar.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/SearchCar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="34" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ZipCode.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/ZipCode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="147">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LogIn.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OrderPhone.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/OrderPhone.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
               <folding />
             </state>
           </provider>
@@ -436,7 +346,109 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="NYT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="NYT" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="HomePage" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="EnterpriseCar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuyFromAmazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuyFromAmazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="test" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="AutomationTest" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="BuyFromAmazon" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1075,7 +1087,7 @@
       <workItem from="1495563305713" duration="92193000" />
       <workItem from="1495896381854" duration="1178000" />
       <workItem from="1495898249536" duration="9980000" />
-      <workItem from="1495910785951" duration="29188000" />
+      <workItem from="1495910785951" duration="30361000" />
     </task>
     <task id="LOCAL-00001" summary="browserstack">
       <created>1494790830934</created>
@@ -1084,7 +1096,14 @@
       <option name="project" value="LOCAL" />
       <updated>1494790830934</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="browserstack">
+      <created>1495980839981</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1495980839981</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -1120,7 +1139,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="134247000" />
+    <option name="totallyTimeSpent" value="135420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1153,7 +1172,7 @@
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29105324" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21291053" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32769555" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20837809" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1278,46 +1297,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homepage/ItemsToBeSearched.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="1" lean-forward="true" selection-start-line="19" selection-start-column="1" selection-end-line="19" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homepage/DropDownMenuPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-278">
-          <caret line="11" column="14" lean-forward="false" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/resources/AmazonTestRunnerOnMac.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="20" column="8" lean-forward="true" selection-start-line="20" selection-start-column="8" selection-end-line="20" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/searchitems/DropDownMenuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/6.11/testng-6.11-sources.jar!/org/testng/internal/Invoker.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="122">
-          <caret line="670" column="0" lean-forward="false" selection-start-line="670" selection-start-column="0" selection-end-line="670" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/test/java/home/SearchItems.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1350,14 +1329,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/PlayVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="20" column="54" lean-forward="true" selection-start-line="19" selection-start-column="7" selection-end-line="20" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Amazon/src/main/java/homepage/SearchPage.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1378,22 +1349,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="20" column="11" lean-forward="true" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/MainMenus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="12" column="3" lean-forward="false" selection-start-line="12" selection-start-column="3" selection-end-line="12" selection-end-column="3" />
           <folding />
         </state>
       </provider>
@@ -1500,14 +1455,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/OrderPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="67" lean-forward="false" selection-start-line="28" selection-start-column="67" selection-end-line="28" selection-end-column="67" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NYP/src/test/java/news/News.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1548,14 +1495,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="29" column="30" lean-forward="false" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestOrderPhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1588,30 +1527,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMainPageContent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-107">
-          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMenus.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="48" column="9" lean-forward="false" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMenuSearch.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1628,29 +1543,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/WBhomepagetitle.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NYT/src/test/java/testHomePage/TestShowWeather.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
           <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/ShowWeather.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="22" column="83" lean-forward="false" selection-start-line="22" selection-start-column="83" selection-end-line="22" selection-end-column="83" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1670,14 +1567,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/NYT/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="79">
-          <caret line="20" column="11" lean-forward="false" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/HomeTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="397">
@@ -1686,11 +1575,141 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/WBhomepagetitle.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
-          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMenuSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMenus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-210">
+          <caret line="25" column="5" lean-forward="true" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldbank/src/main/java/homepage/MainPageContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="53" column="23" lean-forward="true" selection-start-line="53" selection-start-column="16" selection-end-line="53" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldbank/src/main/java/homepage/MenuSearch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="31" column="5" lean-forward="true" selection-start-line="31" selection-start-column="5" selection-end-line="31" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/worldbank/src/test/java/homePageTest/TestMainPageContent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="18" column="5" lean-forward="false" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="30" selection-start-column="5" selection-end-line="30" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/MainMenus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/SearchCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/ZipCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="32" column="28" lean-forward="true" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/OrderPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="34" column="29" lean-forward="true" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/PlayVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="22" column="49" lean-forward="true" selection-start-line="22" selection-start-column="45" selection-end-line="22" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-84">
+          <caret line="8" column="30" lean-forward="true" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYT/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-21">
+          <caret line="11" column="32" lean-forward="true" selection-start-line="11" selection-start-column="32" selection-end-line="11" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/ShowWeather.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
