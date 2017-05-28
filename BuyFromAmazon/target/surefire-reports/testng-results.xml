@@ -20,12 +20,12 @@
       <![CDATA[Launch local browser Instance]]>
     </line>
   </reporter-output>
-  <suite name="BuyFromAmazon" duration-ms="52921" started-at="2017-05-28T05:53:51Z" finished-at="2017-05-28T05:54:44Z">
+  <suite name="BuyFromAmazon" duration-ms="80377" started-at="2017-05-28T15:10:35Z" finished-at="2017-05-28T15:11:55Z">
     <groups>
     </groups>
-    <test name="Buy From Amazon" duration-ms="52921" started-at="2017-05-28T05:53:51Z" finished-at="2017-05-28T05:54:44Z">
+    <test name="Buy From Amazon" duration-ms="80377" started-at="2017-05-28T15:10:35Z" finished-at="2017-05-28T15:11:55Z">
       <class name="testUseAmazon.TestLogIn">
-        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="extentSetup" is-config="true" duration-ms="430" started-at="2017-05-28T01:53:51Z" finished-at="2017-05-28T01:53:51Z">
+        <test-method status="PASS" signature="extentSetup(org.testng.ITestContext)[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="extentSetup" is-config="true" duration-ms="887" started-at="2017-05-28T11:10:34Z" finished-at="2017-05-28T11:10:35Z">
           <params>
             <param index="0">
               <value>
@@ -39,7 +39,7 @@
             </line>
           </reporter-output>
         </test-method> <!-- extentSetup -->
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="setUp" is-config="true" duration-ms="16125" started-at="2017-05-28T01:53:51Z" finished-at="2017-05-28T01:54:07Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="setUp" is-config="true" duration-ms="14084" started-at="2017-05-28T11:10:35Z" finished-at="2017-05-28T11:10:49Z">
           <params>
             <param index="0">
               <value>
@@ -80,7 +80,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="startExtent" is-config="true" duration-ms="16" started-at="2017-05-28T01:54:07Z" finished-at="2017-05-28T01:54:07Z">
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="startExtent" is-config="true" duration-ms="10" started-at="2017-05-28T11:10:49Z" finished-at="2017-05-28T11:10:49Z">
           <params>
             <param index="0">
               <value>
@@ -91,23 +91,25 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="FAIL" signature="logintest()[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="logintest" duration-ms="774" started-at="2017-05-28T01:54:07Z" finished-at="2017-05-28T01:54:08Z">
-          <exception class="org.openqa.selenium.ElementNotInteractableException">
+        <test-method status="FAIL" signature="logintest()[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="logintest" duration-ms="2335" started-at="2017-05-28T11:10:49Z" finished-at="2017-05-28T11:10:51Z">
+          <exception class="org.openqa.selenium.StaleElementReferenceException">
             <message>
-              <![CDATA[
+              <![CDATA[The element reference of <span class="nav-action-inner"> stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
 System info: host: 'DESKTOP-AF5L4ES', ip: '169.254.255.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc]]>
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de]]>
             </message>
             <full-stacktrace>
-              <![CDATA[org.openqa.selenium.ElementNotInteractableException: 
+              <![CDATA[org.openqa.selenium.StaleElementReferenceException: The element reference of <span class="nav-action-inner"> stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
 System info: host: 'DESKTOP-AF5L4ES', ip: '169.254.255.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -150,7 +152,7 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
 	at java.lang.Thread.run(Thread.java:745)
 ]]>
             </full-stacktrace>
-          </exception> <!-- org.openqa.selenium.ElementNotInteractableException -->
+          </exception> <!-- org.openqa.selenium.StaleElementReferenceException -->
           <reporter-output>
             <line>
               <![CDATA[Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]>
@@ -163,28 +165,28 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
             </line>
           </reporter-output>
         </test-method> <!-- logintest -->
-        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="afterEachTestMethod" is-config="true" duration-ms="3711" started-at="2017-05-28T01:54:08Z" finished-at="2017-05-28T01:54:12Z">
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="afterEachTestMethod" is-config="true" duration-ms="21884" started-at="2017-05-28T11:10:51Z" finished-at="2017-05-28T11:11:13Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=logintest status=FAILURE method=TestLogIn.logintest()[pri:0, instance:testUseAmazon.TestLogIn@3a03464] output=Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]]>
+                <![CDATA[[TestResult name=logintest status=FAILURE method=TestLogIn.logintest()[pri:0, instance:testUseAmazon.TestLogIn@6615435c] output=Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="cleanUp" is-config="true" duration-ms="0" started-at="2017-05-28T01:54:12Z" finished-at="2017-05-28T01:54:12Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="cleanUp" is-config="true" duration-ms="1" started-at="2017-05-28T11:11:13Z" finished-at="2017-05-28T11:11:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->
-        <test-method status="PASS" signature="generateReport()[pri:0, instance:testUseAmazon.TestLogIn@3a03464]" name="generateReport" is-config="true" duration-ms="112" started-at="2017-05-28T01:54:44Z" finished-at="2017-05-28T01:54:44Z">
+        <test-method status="PASS" signature="generateReport()[pri:0, instance:testUseAmazon.TestLogIn@6615435c]" name="generateReport" is-config="true" duration-ms="107" started-at="2017-05-28T11:11:55Z" finished-at="2017-05-28T11:11:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- generateReport -->
       </class> <!-- testUseAmazon.TestLogIn -->
       <class name="testUseAmazon.TestOrderPhone">
-        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd]" name="setUp" is-config="true" duration-ms="11522" started-at="2017-05-28T01:54:12Z" finished-at="2017-05-28T01:54:23Z">
+        <test-method status="PASS" signature="setUp(boolean, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da]" name="setUp" is-config="true" duration-ms="12247" started-at="2017-05-28T11:11:13Z" finished-at="2017-05-28T11:11:25Z">
           <params>
             <param index="0">
               <value>
@@ -225,7 +227,7 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd]" name="startExtent" is-config="true" duration-ms="1" started-at="2017-05-28T01:54:23Z" finished-at="2017-05-28T01:54:23Z">
+        <test-method status="PASS" signature="startExtent(java.lang.reflect.Method)[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da]" name="startExtent" is-config="true" duration-ms="1" started-at="2017-05-28T11:11:25Z" finished-at="2017-05-28T11:11:25Z">
           <params>
             <param index="0">
               <value>
@@ -236,7 +238,7 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startExtent -->
-        <test-method status="PASS" signature="searchYourPhone()[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd]" name="searchYourPhone" duration-ms="14820" started-at="2017-05-28T01:54:23Z" finished-at="2017-05-28T01:54:38Z">
+        <test-method status="PASS" signature="searchYourPhone()[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da]" name="searchYourPhone" duration-ms="12806" started-at="2017-05-28T11:11:25Z" finished-at="2017-05-28T11:11:38Z">
           <reporter-output>
             <line>
               <![CDATA[Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]>
@@ -246,18 +248,18 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
             </line>
           </reporter-output>
         </test-method> <!-- searchYourPhone -->
-        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd]" name="afterEachTestMethod" is-config="true" duration-ms="5848" started-at="2017-05-28T01:54:38Z" finished-at="2017-05-28T01:54:44Z">
+        <test-method status="PASS" signature="afterEachTestMethod(org.testng.ITestResult)[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da]" name="afterEachTestMethod" is-config="true" duration-ms="16929" started-at="2017-05-28T11:11:38Z" finished-at="2017-05-28T11:11:55Z">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=searchYourPhone status=SUCCESS method=TestOrderPhone.searchYourPhone()[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd] output=Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]]>
+                <![CDATA[[TestResult name=searchYourPhone status=SUCCESS method=TestOrderPhone.searchYourPhone()[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da] output=Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a>]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterEachTestMethod -->
-        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testUseAmazon.TestOrderPhone@2d3fcdbd]" name="cleanUp" is-config="true" duration-ms="1" started-at="2017-05-28T01:54:44Z" finished-at="2017-05-28T01:54:44Z">
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:testUseAmazon.TestOrderPhone@4909b8da]" name="cleanUp" is-config="true" duration-ms="0" started-at="2017-05-28T11:11:55Z" finished-at="2017-05-28T11:11:55Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- cleanUp -->

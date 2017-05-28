@@ -57,9 +57,9 @@ function toggleAllBoxes() {
 <tr>
 <td>Tests passed/Failed/Skipped:</td><td>1/1/0</td>
 </tr><tr>
-<td>Started on:</td><td>Sun May 28 01:53:51 EDT 2017</td>
+<td>Started on:</td><td>Sun May 28 11:10:35 EDT 2017</td>
 </tr>
-<tr><td>Total time:</td><td>52 seconds (52921 ms)</td>
+<tr><td>Total time:</td><td>80 seconds (80377 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -76,21 +76,22 @@ function toggleAllBoxes() {
 </tr>
 <tr>
 <td title='testUseAmazon.TestLogIn.logintest()'><b>logintest</b><br>Test class: testUseAmazon.TestLogIn<br/>
-<a href="#Output-1145867412" onClick='toggleBox("Output-1145867412", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-363363923" onClick='toggleBox("Output-363363923", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-1145867412" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-1145867412">
+<a href="#Output-363363923" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-363363923">
 Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
 Launch local browser Instance<br/>
 LogIn: clickon Login<br/>
 </div>
 </td>
-<td><div><pre>org.openqa.selenium.ElementNotInteractableException: 
+<td><div><pre>org.openqa.selenium.StaleElementReferenceException: The element reference of &lt;span class=&quot;nav-action-inner&quot;&gt; stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
 System info: host: &apos;DESKTOP-AF5L4ES&apos;, ip: &apos;169.254.255.155&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
@@ -107,13 +108,14 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
 	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1142)
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
-... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace1145867412", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace1145867412'><pre>org.openqa.selenium.ElementNotInteractableException: 
+... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace363363923", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
+<div class='stack-trace' id='stack-trace363363923'><pre>org.openqa.selenium.StaleElementReferenceException: The element reference of &lt;span class=&quot;nav-action-inner&quot;&gt; stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
 System info: host: &apos;DESKTOP-AF5L4ES&apos;, ip: &apos;169.254.255.155&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
 	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
 	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
@@ -155,8 +157,8 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
 	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:617)
 	at java.lang.Thread.run(Thread.java:745)
 </pre></div></td>
-<td>0</td>
-<td>testUseAmazon.TestLogIn@3a03464</td></tr>
+<td>2</td>
+<td>testUseAmazon.TestLogIn@6615435c</td></tr>
 </table><p>
 <table width='100%' border='1' class='invocation-passed'>
 <tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
@@ -167,17 +169,17 @@ Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
 </tr>
 <tr>
 <td title='testUseAmazon.TestOrderPhone.searchYourPhone()'><b>searchYourPhone</b><br>Test class: testUseAmazon.TestOrderPhone<br/>
-<a href="#Output-525243601" onClick='toggleBox("Output-525243601", this, "Show output", "Hide output");'>Show output</a>
+<a href="#Output-99005625" onClick='toggleBox("Output-99005625", this, "Show output", "Hide output");'>Show output</a>
 
-<a href="#Output-525243601" onClick="toggleAllBoxes();">Show all outputs</a>
-<div class='log' id="Output-525243601">
+<a href="#Output-99005625" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-99005625">
 Epic: Metro AC:1,2 <a https://peoplentch.atlassian.net/browse/GREEN-7> GREEN-7 </a><br/>
 Launch local browser Instance<br/>
 </div>
 </td>
 <td></td>
-<td>14</td>
-<td>testUseAmazon.TestOrderPhone@2d3fcdbd</td></tr>
+<td>12</td>
+<td>testUseAmazon.TestOrderPhone@4909b8da</td></tr>
 </table><p>
 </body>
 </html>

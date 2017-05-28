@@ -2,80 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="88d8ee8a-8e16-4c3f-ab0c-1245ca465f2f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/Upscalelearning.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/src/test/java/home/TestLogin.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/src/test/resources/UpScalelearningTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/Upscalelearning-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/Upscalelearning.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/src/test/resources/UpScalelearningTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/Upscalelearning-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/classes/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/classes/target/test-classes/UpScalelearningTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/TEST-home.TestLogin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/bullet_point.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/collapseall.gif" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/emailable-report.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/failed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/home.TestLogin.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/home.TestLogin/Command line test.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/home.TestLogin/Command line test.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/home.TestLogin/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/jquery-1.7.1.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/junitreports/TEST-home.TestLogin.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/navigator-bullet.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/Command line test.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/classes.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/groups.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/main.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/methods-alphabetical.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/methods-not-run.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/methods.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/reporter-output.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/testng.xml.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/home.TestLogin/toc.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/old/index.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/passed.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/skipped.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/testng-failed.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/testng-reports.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/testng-reports.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/testng-results.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/surefire-reports/testng.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/test-classes/UpScalelearningTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Upscalelearning/target/test-classes/home/TestLogin.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/Extent-Report/ExtentReport.html" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/W3Schools.iml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/pom.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/src/main/java/tablepage/TableData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/src/main/java/tablepage/TablePage.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/src/test/java/tabledata/ReadTableData.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/src/test/resources/W3SchoolsTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/W3Schools-1.0-SNAPSHOT.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/classes/tablepage/TableData.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/classes/tablepage/TablePage.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/maven-archiver/pom.properties" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/test-classes/W3SchoolsTestRunner.xml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/W3Schools/target/test-classes/tabledata/ReadTableData.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/Extent-Report/ExtentReport.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/Extent-Report/ExtentReport.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/BuyFromAmazon/Buy From Amazon.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/BuyFromAmazon/Buy From Amazon.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/BuyFromAmazon/Buy From Amazon.xml" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/BuyFromAmazon/Buy From Amazon.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TEST-TestSuite.xml" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TEST-TestSuite.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TestSuite-output.txt" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TestSuite-output.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TestSuite.txt" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/TestSuite.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/emailable-report.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/emailable-report.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/index.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/junitreports/TEST-testUseAmazon.TestLogIn.xml" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/junitreports/TEST-testUseAmazon.TestLogIn.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/junitreports/TEST-testUseAmazon.TestOrderPhone.xml" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/junitreports/TEST-testUseAmazon.TestOrderPhone.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/old/BuyFromAmazon/methods-alphabetical.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/old/BuyFromAmazon/methods-alphabetical.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/old/BuyFromAmazon/methods.html" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/old/BuyFromAmazon/methods.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/testng-results.xml" afterPath="$PROJECT_DIR$/BuyFromAmazon/target/surefire-reports/testng-results.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -125,11 +67,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-524">
-              <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+            <state relative-caret-position="1155">
+              <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ByFromAmazonTestRunner.xml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -162,46 +114,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainMenus.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/MainMenus.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="13" column="36" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="SearchCar.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/SearchCar.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="37" column="34" lean-forward="false" selection-start-line="37" selection-start-column="31" selection-end-line="37" selection-end-column="34" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ZipCode.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/EnterpriseCar/src/main/java/search/ZipCode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="147">
-              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LogIn.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -273,7 +185,6 @@
         <option value="$PROJECT_DIR$/BuyFromAmazon/src/main/resources/ByFromAmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/BuyFromAmazon/pom.xml" />
         <option value="$PROJECT_DIR$/BuyFromAmazon/src/test/java/TestOrderPhone.java" />
-        <option value="$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" />
         <option value="$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/OrderPhone.java" />
         <option value="$PROJECT_DIR$/worldbank/pom.xml" />
         <option value="$PROJECT_DIR$/Twitter/src/main/resources/TwitterTestRunner.xml" />
@@ -293,6 +204,7 @@
         <option value="$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestLogIn.java" />
         <option value="$PROJECT_DIR$/NYT/src/main/java/HomePage/ShowWeather.java" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" />
       </list>
     </option>
   </component>
@@ -328,6 +240,30 @@
         </PATH_ELEMENT>
         <PATH_ELEMENT>
           <option name="myItemId" value="NYT" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="Lifecycle" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$LifecycleNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="BuyFromAmazon" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
+        </PATH_ELEMENT>
+      </PATH>
+      <PATH>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="" />
+          <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$RootNode" />
+        </PATH_ELEMENT>
+        <PATH_ELEMENT>
+          <option name="myItemId" value="BuyFromAmazon" />
           <option name="myItemType" value="org.jetbrains.idea.maven.navigator.MavenProjectsStructure$ProjectNode" />
         </PATH_ELEMENT>
         <PATH_ELEMENT>
@@ -429,7 +365,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/NYT/src/test/resources/NYTtestRunner.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml">
     <configuration default="false" name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="BuyFromAmazon" />
@@ -993,8 +929,8 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/NYT/src/test/resources/NYTtestRunner.xml" />
-        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" />
+        <item index="0" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" />
+        <item index="1" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/NYT/src/test/resources/NYTtestRunner.xml" />
         <item index="2" class="java.lang.String" itemvalue="TestNG.TestLogIn.logintest" />
         <item index="3" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" />
         <item index="4" class="java.lang.String" itemvalue="TestNG.C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/Twitter/src/test/resources/TwitterTestRunner.xml" />
@@ -1016,7 +952,7 @@
       <workItem from="1495563305713" duration="92193000" />
       <workItem from="1495896381854" duration="1178000" />
       <workItem from="1495898249536" duration="9980000" />
-      <workItem from="1495910785951" duration="30945000" />
+      <workItem from="1495910785951" duration="31937000" />
     </task>
     <task id="LOCAL-00001" summary="browserstack">
       <created>1494790830934</created>
@@ -1036,12 +972,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_Amazon_src_test_resources_AmazonTestRunnerOnWindows_xml - 2017.05.28 at 01h 25m 08s.xml">
-      <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/Amazon/src/test/resources/AmazonTestRunnerOnWindows.xml" configurationId="TestNG" />
-    </history-entry>
-    <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_BuyFromAmazon_src_test_resources_ByFromAmazonTestRunner_xml - 2017.05.28 at 01h 26m 53s.xml">
-      <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" configurationId="TestNG" />
-    </history-entry>
     <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_BuyFromAmazon_src_test_resources_ByFromAmazonTestRunner_xml - 2017.05.28 at 01h 28m 27s.xml">
       <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -1057,6 +987,12 @@
     <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_BuyFromAmazon_src_test_resources_ByFromAmazonTestRunner_xml - 2017.05.28 at 01h 53m 14s.xml">
       <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" configurationId="TestNG" />
     </history-entry>
+    <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_BuyFromAmazon_src_test_resources_ByFromAmazonTestRunner_xml - 2017.05.28 at 11h 14m 19s.xml">
+      <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
+    <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_BuyFromAmazon_src_test_resources_ByFromAmazonTestRunner_xml - 2017.05.28 at 11h 16m 17s.xml">
+      <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml" configurationId="TestNG" />
+    </history-entry>
     <history-entry file="C__Users_mehmet_Documents_myprojects_automation_test_AutomationTest_NYT_src_test_resources_NYTtestRunner_xml - 2017.05.28 at 09h 22m 51s.xml">
       <configuration name="C:/Users/mehmet/Documents/myprojects/automation_test/AutomationTest/NYT/src/test/resources/NYTtestRunner.xml" configurationId="TestNG" />
     </history-entry>
@@ -1068,7 +1004,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="136004000" />
+    <option name="totallyTimeSpent" value="136996000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -1424,22 +1360,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestOrderPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestLogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="17" column="20" lean-forward="false" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/NYT/src/test/java/testHomePage/TestPlayVideo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1452,14 +1372,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
           <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="19" column="18" lean-forward="false" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding />
         </state>
       </provider>
@@ -1584,26 +1496,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/OrderPhone.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="319">
           <caret line="34" column="29" lean-forward="false" selection-start-line="34" selection-start-column="29" selection-end-line="34" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding />
         </state>
       </provider>
@@ -1636,8 +1532,48 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-524">
-          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        <state relative-caret-position="1155">
+          <caret line="55" column="53" lean-forward="false" selection-start-line="55" selection-start-column="53" selection-end-line="55" selection-end-column="53" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestOrderPhone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="17" lean-forward="false" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/java/testUseAmazon/TestLogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="16" column="20" lean-forward="false" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/main/java/useAmazon/LogIn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NYT/src/main/java/HomePage/SectionMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BuyFromAmazon/src/test/resources/ByFromAmazonTestRunner.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>

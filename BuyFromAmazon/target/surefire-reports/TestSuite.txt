@@ -1,14 +1,15 @@
 -------------------------------------------------------------------------------
 Test set: TestSuite
 -------------------------------------------------------------------------------
-Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 54.599 sec <<< FAILURE! - in TestSuite
-logintest(testUseAmazon.TestLogIn)  Time elapsed: 0.805 sec  <<< FAILURE!
-org.openqa.selenium.ElementNotInteractableException: 
-
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 83.266 sec <<< FAILURE! - in TestSuite
+logintest(testUseAmazon.TestLogIn)  Time elapsed: 2.389 sec  <<< FAILURE!
+org.openqa.selenium.StaleElementReferenceException: 
+The element reference of <span class="nav-action-inner"> stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: '3.4.0', revision: 'unknown', time: 'unknown'
 System info: host: 'DESKTOP-AF5L4ES', ip: '169.254.255.155', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_121'
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de
 	at testUseAmazon.TestLogIn.logintest(TestLogIn.java:17)
 

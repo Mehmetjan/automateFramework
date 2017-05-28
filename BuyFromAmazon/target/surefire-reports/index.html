@@ -142,12 +142,13 @@
                   <a name="logintest">
                   </a> <!-- logintest -->
                   <span class="method-name">logintest</span>
-                  <div class="stack-trace">org.openqa.selenium.ElementNotInteractableException: 
+                  <div class="stack-trace">org.openqa.selenium.StaleElementReferenceException: The element reference of &lt;span class=&quot;nav-action-inner&quot;&gt; stale: either the element is no longer attached to the DOM or the page has been refreshed
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/stale_element_reference.html
 Build info: version: &apos;3.4.0&apos;, revision: &apos;unknown&apos;, time: &apos;unknown&apos;
 System info: host: &apos;DESKTOP-AF5L4ES&apos;, ip: &apos;169.254.255.155&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_121&apos;
 Driver info: org.openqa.selenium.firefox.FirefoxDriver
-Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.QjBOwczSAoCD, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=6992.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
-Session ID: f87aed1e-860b-4a66-a5ff-e1856a4120dc
+Capabilities [{moz:profile=C:\Users\mehmet\AppData\Local\Temp\rust_mozprofile.lajSVBU9WmfK, rotatable=false, timeouts={implicit=0.0, pageLoad=300000.0, script=30000.0}, pageLoadStrategy=normal, platform=ANY, specificationLevel=0.0, moz:accessibilityChecks=false, acceptInsecureCerts=false, browserVersion=53.0.3, platformVersion=10.0, moz:processID=26244.0, browserName=firefox, javascriptEnabled=true, platformName=windows_nt}]
+Session ID: 1c45e390-2145-45b1-b238-4c2dca4df2de
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:150)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:115)
 	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:45)
@@ -249,11 +250,11 @@ data.addRows(2);
 data.setCell(0, 0, 0)
 data.setCell(0, 1, 'searchYourPhone')
 data.setCell(0, 2, 'testUseAmazon.TestOrderPhone')
-data.setCell(0, 3, 14820);
+data.setCell(0, 3, 12806);
 data.setCell(1, 0, 1)
 data.setCell(1, 1, 'logintest')
 data.setCell(1, 2, 'testUseAmazon.TestLogIn')
-data.setCell(1, 3, 774);
+data.setCell(1, 3, 2335);
 window.suiteTableData['BuyFromAmazon']= { tableData: data, tableDiv: 'times-div-BuyFromAmazon'}
 return data;
 }
@@ -315,55 +316,55 @@ return data;
               </div> <!-- configuration-suite before -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(false, browserstack, Windows, 10, firefox, 53.0, https://www.amazon.com)</span>
-                <span class="method-start">490 ms</span>
+                <span class="method-start">932 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">startExtent(public void testUseAmazon.TestLogIn.logintest() throws java.lang.InterruptedException)</span>
-                <span class="method-start">16615 ms</span>
+                <span class="method-start">15016 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <img src="failed.png">
                 </img>
                 <span class="method-name">logintest</span>
-                <span class="method-start">16632 ms</span>
+                <span class="method-start">15026 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterEachTestMethod([TestResult name=logintest status=FAILURE method=TestLogIn.logintest()[pri:0, instance:testUseAmazon...)</span>
-                <span class="method-start">17443 ms</span>
+                <span class="method-start">17390 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">cleanUp</span>
-                <span class="method-start">21154 ms</span>
+                <span class="method-start">39274 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testUseAmazon.TestOrderPhone</div> <!-- chronological-class-name -->
               <div class="configuration-method before">
                 <span class="method-name">setUp(false, browserstack, Windows, 10, firefox, 53.0, https://www.amazon.com)</span>
-                <span class="method-start">21159 ms</span>
+                <span class="method-start">39276 ms</span>
               </div> <!-- configuration-method before -->
               <div class="configuration-method before">
                 <span class="method-name">startExtent(public void testUseAmazon.TestOrderPhone.searchYourPhone() throws java.lang.InterruptedException)</span>
-                <span class="method-start">32681 ms</span>
+                <span class="method-start">51523 ms</span>
               </div> <!-- configuration-method before -->
               <div class="test-method">
                 <span class="method-name">searchYourPhone</span>
-                <span class="method-start">32682 ms</span>
+                <span class="method-start">51524 ms</span>
               </div> <!-- test-method -->
               <div class="configuration-method after">
                 <span class="method-name">afterEachTestMethod([TestResult name=searchYourPhone status=SUCCESS method=TestOrderPhone.searchYourPhone()[pri:0, insta...)</span>
-                <span class="method-start">47503 ms</span>
+                <span class="method-start">64339 ms</span>
               </div> <!-- configuration-method after -->
               <div class="configuration-method after">
                 <span class="method-name">cleanUp</span>
-                <span class="method-start">53351 ms</span>
+                <span class="method-start">81268 ms</span>
               </div> <!-- configuration-method after -->
             </div> <!-- chronological-class -->
             <div class="chronological-class">
               <div class="chronological-class-name">testUseAmazon.TestLogIn</div> <!-- chronological-class-name -->
               <div class="configuration-suite after">
                 <span class="method-name">generateReport</span>
-                <span class="method-start">53461 ms</span>
+                <span class="method-start">81341 ms</span>
               </div> <!-- configuration-suite after -->
           </div> <!-- main-panel-content rounded-window-bottom -->
         </div> <!-- panel -->
