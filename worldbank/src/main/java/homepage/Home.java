@@ -39,7 +39,7 @@ public class Home extends CommonAPI {
     public void searchFor(String economy) throws InterruptedException {
         TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object() {
                     }.getClass().getEnclosingMethod().getName() + ": " + economy));
-        searchword.sendKeys(economy, Keys.ENTER);
+        searchword.sendKeys("economy");
         Thread.sleep(3000);
            }
 

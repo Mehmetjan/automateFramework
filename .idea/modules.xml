@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Amazon/Amazon.iml" filepath="$PROJECT_DIR$/Amazon/Amazon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BuyFromAmazon/BuyFromAmazon.iml" filepath="$PROJECT_DIR$/BuyFromAmazon/BuyFromAmazon.iml" />
       <module fileurl="file://$PROJECT_DIR$/EnterpriseCar/EnterpriseCar.iml" filepath="$PROJECT_DIR$/EnterpriseCar/EnterpriseCar.iml" />
       <module fileurl="file://$PROJECT_DIR$/Generic/Generic.iml" filepath="$PROJECT_DIR$/Generic/Generic.iml" />
       <module fileurl="file://$PROJECT_DIR$/NYP/NYP.iml" filepath="$PROJECT_DIR$/NYP/NYP.iml" />

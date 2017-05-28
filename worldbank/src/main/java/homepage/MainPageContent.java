@@ -22,6 +22,7 @@ import java.util.WeakHashMap;
         }.getClass().getEnclosingMethod().getName()));
         backgroundpic.click();
             }
+
     @FindBy (how= How.CSS,using="input[type=text][placeholder='Email address']")
     public static WebElement signup;
 
@@ -34,6 +35,7 @@ import java.util.WeakHashMap;
         signup.sendKeys("mm.jacque@hotmail.com");
         Thread.sleep(3000);
         }
+
     @FindBy (how = How.XPATH,using = "//a[text()='World Development Report 2017: Governance and the Law']")
     public static WebElement openReport;
     public static WebElement getOpenReport() { return openReport;}

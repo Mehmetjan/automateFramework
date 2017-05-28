@@ -16,6 +16,7 @@
             <!--<class name="home.TestAmazonHome"/>-->
             <class name="testHomePage.TestSectionMenu"/>
             <class name ="testHomePage.TestPlayVideo"/>
+            <class name = "testHomePage.TestShowWeather"/>
         </classes>
     </test>
 

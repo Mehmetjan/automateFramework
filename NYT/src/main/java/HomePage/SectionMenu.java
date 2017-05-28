@@ -14,13 +14,13 @@ public class SectionMenu extends CommonAPI{
     @FindBy (how= How.XPATH, using="//*[@class='icon sprite-icon']")
     public static WebElement sectionMenu;
     @FindBy (how= How.XPATH, using="//a[contains(text(),'Home Page')]")
-    public static WebElement clickOnHomePae ;
+    public static WebElement clickOnHomePage ;
 
     public static WebElement getSectionMenu() {return sectionMenu;}
     public void sentionmenus() throws InterruptedException {
     TestLogger.log(getClass().getSimpleName() + ": " + converToString(new Object() {
         }.getClass().getEnclosingMethod().getName()));
         sectionMenu.click();
-        clickOnHomePae.click();
+        clickOnHomePage.click();
      }
 }
